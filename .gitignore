@@ -1,0 +1,4 @@
+# kernel files
+*.zip
+*.gz-dtb
+zImage
